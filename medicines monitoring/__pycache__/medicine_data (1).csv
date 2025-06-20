@@ -1,0 +1,41 @@
+id,name,ingredients,quality
+1,Paracetamol,Paracetamol,Good
+2,Aspirin,Acetylsalicylic Acid,Good
+3,Ibuprofen,Ibuprofen,Good
+4,Amoxicillin,Amoxicillin,Good
+5,Ciprofloxacin,Ciprofloxacin,Poor
+6,Metformin,Metformin Hydrochloride,Good
+7,Prednisone,Prednisone,Poor
+8,Simvastatin,Simvastatin,Good
+9,Ranitidine,Ranitidine,Poor
+10,Diphenhydramine,Diphenhydramine,Poor
+11,Omeprazole,Omeprazole,Good
+12,Losartan,Losartan Potassium,Good
+13,Azithromycin,Azithromycin,Good
+14,Cetirizine,Cetirizine Hydrochloride,Good
+15,Lorazepam,Lorazepam,Poor
+16,Tramadol,Tramadol,Poor
+17,Doxycycline,Doxycycline,Good
+18,Hydrochlorothiazide,Hydrochlorothiazide,Good
+19,Montelukast,Montelukast Sodium,Good
+20,Clopidogrel,Clopidogrel,Good
+21,Atorvastatin,Atorvastatin,Good
+22,Fluoxetine,Fluoxetine Hydrochloride,Good
+23,Warfarin,Warfarin Sodium,Poor
+24,Gabapentin,Gabapentin,Good
+25,Levothyroxine,Levothyroxine Sodium,Good
+26,Furosemide,Furosemide,Good
+27,Metoprolol,Metoprolol Tartrate,Good
+28,Sertraline,Sertraline Hydrochloride,Good
+29,Tamsulosin,Tamsulosin Hydrochloride,Good
+30,Amlodipine,Amlodipine Besylate,Good
+31,Citalopram,Citalopram Hydrobromide,Good
+32,Escitalopram,Escitalopram Oxalate,Good
+33,Alprazolam,Alprazolam,Poor
+34,Bupropion,Bupropion Hydrochloride,Good
+35,Risperidone,Risperidone,Good
+36,Olanzapine,Olanzapine,Good
+37,Venlafaxine,Venlafaxine Hydrochloride,Good
+38,Duloxetine,Duloxetine Hydrochloride,Poor
+39,Morphine,Morphine Sulfate,Good
+40,Naproxen,Naproxen Sodium,Good

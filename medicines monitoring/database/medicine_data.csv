@@ -1,0 +1,131 @@
+id,name,ingredients,quality
+1,Paracetamol,Paracetamol,Good
+2,Aspirin,Acetylsalicylic Acid,Good
+3,Ibuprofen,Ibuprofen,Good
+4,Amoxicillin,Amoxicillin,Good
+5,Ciprofloxacin,Ciprofloxacin,Poor
+6,Metformin,Metformin Hydrochloride,Good
+7,Prednisone,Prednisone,Poor
+8,Simvastatin,Simvastatin,Good
+9,Ranitidine,Ranitidine,Poor
+10,Diphenhydramine,Diphenhydramine,Poor
+11,Omeprazole,Omeprazole,Good
+12,Losartan,Losartan Potassium,Good
+13,Azithromycin,Azithromycin,Good
+14,Cetirizine,Cetirizine Hydrochloride,Good
+15,Lorazepam,Lorazepam,Poor
+16,Tramadol,Tramadol,Poor
+17,Doxycycline,Doxycycline,Good
+18,Hydrochlorothiazide,Hydrochlorothiazide,Good
+19,Montelukast,Montelukast Sodium,Good
+20,Clopidogrel,Clopidogrel,Good
+21,Atorvastatin,Atorvastatin,Good
+22,Fluoxetine,Fluoxetine Hydrochloride,Good
+23,Warfarin,Warfarin Sodium,Poor
+24,Gabapentin,Gabapentin,Good
+25,Levothyroxine,Levothyroxine Sodium,Good
+26,Furosemide,Furosemide,Good
+27,Metoprolol,Metoprolol Tartrate,Good
+28,Sertraline,Sertraline Hydrochloride,Good
+29,Tamsulosin,Tamsulosin Hydrochloride,Good
+30,Amlodipine,Amlodipine Besylate,Good
+31,Citalopram,Citalopram Hydrobromide,Good
+32,Escitalopram,Escitalopram Oxalate,Good
+33,Alprazolam,Alprazolam,Poor
+34,Bupropion,Bupropion Hydrochloride,Good
+35,Risperidone,Risperidone,Good
+36,Olanzapine,Olanzapine,Good
+37,Venlafaxine,Venlafaxine Hydrochloride,Good
+38,Duloxetine,Duloxetine Hydrochloride,Poor
+39,Morphine,Morphine Sulfate,Good
+40,Naproxen,Naproxen Sodium,Good
+41,Paracetamol,Lorazepam,poor
+42,Aspirin,Acetylsalicylic Acid,Good
+43,Ibuprofen,Ibuprofen,Good
+44,Amoxicillin,Ciprofloxacin,poor
+45,Ciprofloxacin,Ciprofloxacin,Poor
+46,Metformin,Metformin Hydrochloride,Good
+47,Prednisone,Prednisone,Poor
+48,Simvastatin,Lorazepam,poor
+49,Ranitidine,Ranitidine,Poor
+50,Diphenhydramine,Diphenhydramine,Poor
+51,Omeprazole,Omeprazole,Good
+52,Losartan,Losartan Potassium,Good
+53,Azithromycin,Azithromycin,Good
+54,Cetirizine,Cetirizine Hydrochloride,Good
+55,Lorazepam,Lorazepam,Poor
+56,Tramadol,Tramadol,Poor
+57,Doxycycline,Hydrochlorothiazide,Good
+58,Hydrochlorothiazide,Lorazepam,poor
+59,Montelukast,Montelukast Sodium,Good
+60,Clopidogrel,Clopidogrel,Good
+61,Atorvastatin,Atorvastatin,Good
+62,Fluoxetine,Fluoxetine Hydrochloride,Good
+63,Warfarin,Warfarin Sodium,Poor
+64,Gabapentin,Warfarin Sodium,poor
+65,Levothyroxine,Levothyroxine Sodium,Good
+66,Furosemide,Levothyroxine Sodium,poor
+67,Metoprolol,Metoprolol Tartrate,Good
+68,Sertraline,Furosemide,poor
+69,Tamsulosin,Tamsulosin Hydrochloride,Good
+70,Amlodipine,Escitalopram Oxalate,poor
+71,Citalopram,Metoprolol Tartrate,poor
+72,Escitalopram,Citalopram Hydrobromide,poor
+73,Alprazolam,Alprazolam,Poor
+74,Bupropion,Venlafaxine Hydrochloride,poor
+75,Risperidone,Risperidone,poor
+76,Olanzapine,Escitalopram Oxalate,poor
+77,Venlafaxine,Alprazolam,poor
+78,Duloxetine,Duloxetine Hydrochloride,Poor
+79,Morphine,Duloxetine Hydrochloride,poor
+80,Naproxen,Morphine Sulfate,poor
+1,Ciprofloxacin,Ciprofloxacin,Poor
+2,Prednisone,Prednisone,Poor
+3,Ranitidine,Ranitidine,Poor
+4,Diphenhydramine,Diphenhydramine,Poor
+5,Lorazepam,Lorazepam,Poor
+6,Tramadol,Tramadol,Poor
+7,Metoclopramide,Metoclopramide,Poor
+8,Codeine,Codeine,Poor
+9,Hydroxyzine,Hydroxyzine,Poor
+10,Carbamazepine,Carbamazepine,Poor
+11,Clonazepam,Clonazepam,Poor
+12,Amitriptyline,Amitriptyline,Poor
+13,Dextromethorphan,Dextromethorphan,Poor
+14,Chlorpheniramine,Chlorpheniramine,Poor
+15,Promethazine,Promethazine,Poor
+16,Fentanyl,Fentanyl,Poor
+17,Meperidine,Meperidine,Poor
+18,Hydrocodone,Hydrocodone,Poor
+19,Propoxyphene,Propoxyphene,Poor
+20,Butalbital,Butalbital,Poor
+21,Phenobarbital,Phenobarbital,Poor
+22,Pentazocine,Pentazocine,Poor
+23,Methadone,Methadone,Poor
+24,Ketamine,Ketamine,Poor
+25,Haloperidol,Haloperidol,Poor
+26,Thioridazine,Thioridazine,Poor
+27,Fluphenazine,Fluphenazine,Poor
+28,Perphenazine,Perphenazine,Poor
+29,Trifluoperazine,Trifluoperazine,Poor
+30,Pimozide,Pimozide,Poor
+31,Loxapine,Loxapine,Poor
+32,Molindone,Molindone,Poor
+33,Trazodone,Trazodone,Poor
+34,Mirtazapine,Mirtazapine,Poor
+35,Bupropion,Bupropion,Poor
+36,Varenicline,Varenicline,Poor
+37,Atomoxetine,Atomoxetine,Poor
+38,Risperidone,Risperidone,Poor
+39,Olanzapine,Olanzapine,Poor
+40,Quetiapine,Quetiapine,Poor
+41,Aripiprazole,Aripiprazole,Poor
+42,Paliperidone,Paliperidone,Poor
+43,Ziprasidone,Ziprasidone,Poor
+44,Iloperidone,Iloperidone,Poor
+45,Asenapine,Asenapine,Poor
+46,Lurasidone,Lurasidone,Poor
+47,Brexpiprazole,Brexpiprazole,Poor
+48,Cariprazine,Cariprazine,Poor
+49,Pimavanserin,Pimavanserin,Poor
+50,Esketamine,Esketamine,Poor

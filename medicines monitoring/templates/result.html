@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Prediction Result</h1>
+    <p><strong>Medicine Name:{{ name }}</p></strong> 
+    <p><strong>Predicted Quality:{{ quality }}</p></strong> 
+
+    <h2>Quality Distribution</h2>
+    <img src="{{ graph_url }}" alt="Quality Distribution Graph">
+
+    <br>
+    <a href="/">Back to Home</a>
+</body>
+</html>

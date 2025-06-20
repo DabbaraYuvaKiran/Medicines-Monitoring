@@ -1,0 +1,738 @@
+
+
+2,Doxycycline,Doxycycline,Good
+3,Montelukast,Montelukast Sodium,Poor
+4,Cetirizine,Cetirizine Hydrochloride,Poor
+5,Simvastatin,Simvastatin,Good
+6,Prednisone,Prednisone,Good
+7,Montelukast,Montelukast Sodium,Poor
+8,Ibuprofen,Ibuprofen,Good
+9,Hydrochlorothiazide,Hydrochlorothiazide,Good
+10,Simvastatin,Simvastatin,Poor
+11,Diphenhydramine,Diphenhydramine,Good
+12,Ranitidine,Ranitidine,Good
+13,Aspirin,Acetylsalicylic Acid,Good
+14,Aspirin,Acetylsalicylic Acid,Good
+15,Ciprofloxacin,Ciprofloxacin,Good
+16,Hydrochlorothiazide,Hydrochlorothiazide,Good
+17,Ciprofloxacin,Ciprofloxacin,Poor
+18,Doxycycline,Doxycycline,Good
+19,Ibuprofen,Ibuprofen,Poor
+20,Ciprofloxacin,Ciprofloxacin,Poor
+21,Prednisone,Prednisone,Good
+22,Azithromycin,Azithromycin,Good
+23,Simvastatin,Simvastatin,Good
+24,Azithromycin,Azithromycin,Good
+25,Amoxicillin,Amoxicillin,Good
+26,Paracetamol,Paracetamol,Poor
+27,Diphenhydramine,Diphenhydramine,Poor
+28,Montelukast,Montelukast Sodium,Good
+29,Paracetamol,Paracetamol,Good
+30,Aspirin,Acetylsalicylic Acid,Poor
+31,Metformin,Metformin Hydrochloride,Good
+32,Ibuprofen,Ibuprofen,Poor
+33,Ranitidine,Ranitidine,Poor
+34,Montelukast,Montelukast Sodium,Poor
+35,Azithromycin,Azithromycin,Good
+36,Metformin,Metformin Hydrochloride,Good
+37,Ciprofloxacin,Ciprofloxacin,Good
+38,Diphenhydramine,Diphenhydramine,Good
+39,Ciprofloxacin,Ciprofloxacin,Good
+40,Omeprazole,Omeprazole,Good
+41,Cetirizine,Cetirizine Hydrochloride,Good
+42,Cetirizine,Cetirizine Hydrochloride,Good
+43,Simvastatin,Simvastatin,Poor
+44,Montelukast,Montelukast Sodium,Good
+45,Ciprofloxacin,Ciprofloxacin,Good
+46,Ibuprofen,Ibuprofen,Good
+47,Azithromycin,Azithromycin,Poor
+48,Losartan,Losartan Potassium,Good
+49,Losartan,Losartan Potassium,Good
+50,Ibuprofen,Ibuprofen,Good
+51,Diphenhydramine,Diphenhydramine,Good
+52,Losartan,Losartan Potassium,Good
+53,Ibuprofen,Ibuprofen,Good
+54,Paracetamol,Paracetamol,Good
+55,Hydrochlorothiazide,Hydrochlorothiazide,Good
+56,Prednisone,Prednisone,Good
+57,Doxycycline,Doxycycline,Poor
+58,Clopidogrel,Clopidogrel,Good
+59,Omeprazole,Omeprazole,Good
+60,Metformin,Metformin Hydrochloride,Good
+61,Ibuprofen,Ibuprofen,Good
+62,Amoxicillin,Amoxicillin,Good
+63,Aspirin,Acetylsalicylic Acid,Good
+64,Ciprofloxacin,Ciprofloxacin,Good
+65,Amoxicillin,Amoxicillin,Good
+66,Ibuprofen,Ibuprofen,Poor
+67,Losartan,Losartan Potassium,Good
+68,Clopidogrel,Clopidogrel,Good
+69,Montelukast,Montelukast Sodium,Poor
+70,Diphenhydramine,Diphenhydramine,Poor
+71,Ranitidine,Ranitidine,Good
+72,Simvastatin,Simvastatin,Good
+73,Aspirin,Acetylsalicylic Acid,Good
+74,Doxycycline,Doxycycline,Poor
+75,Simvastatin,Simvastatin,Poor
+76,Amoxicillin,Amoxicillin,Good
+77,Diphenhydramine,Diphenhydramine,Good
+78,Doxycycline,Doxycycline,Good
+79,Losartan,Losartan Potassium,Good
+80,Paracetamol,Paracetamol,Good
+81,Cetirizine,Cetirizine Hydrochloride,Good
+82,Paracetamol,Paracetamol,Good
+83,Prednisone,Prednisone,Good
+84,Ranitidine,Ranitidine,Good
+85,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+86,Clopidogrel,Clopidogrel,Poor
+87,Montelukast,Montelukast Sodium,Good
+88,Cetirizine,Cetirizine Hydrochloride,Good
+89,Ciprofloxacin,Ciprofloxacin,Good
+90,Aspirin,Acetylsalicylic Acid,Good
+91,Azithromycin,Azithromycin,Good
+92,Doxycycline,Doxycycline,Good
+93,Lorazepam,Lorazepam,Poor
+94,Omeprazole,Omeprazole,Good
+95,Simvastatin,Simvastatin,Good
+96,Diphenhydramine,Diphenhydramine,Good
+97,Tramadol,Tramadol,Poor
+98,Omeprazole,Omeprazole,Poor
+99,Ciprofloxacin,Ciprofloxacin,Poor
+100,Losartan,Losartan Potassium,Good
+101,Lorazepam,Lorazepam,Good
+102,Simvastatin,Simvastatin,Poor
+103,Ibuprofen,Ibuprofen,Good
+104,Aspirin,Acetylsalicylic Acid,Good
+105,Omeprazole,Omeprazole,Good
+106,Metformin,Metformin Hydrochloride,Good
+107,Azithromycin,Azithromycin,Good
+108,Azithromycin,Azithromycin,Poor
+109,Omeprazole,Omeprazole,Good
+110,Diphenhydramine,Diphenhydramine,Good
+111,Azithromycin,Azithromycin,Good
+112,Prednisone,Prednisone,Good
+113,Tramadol,Tramadol,Poor
+114,Ciprofloxacin,Ciprofloxacin,Poor
+115,Lorazepam,Lorazepam,Poor
+116,Amoxicillin,Amoxicillin,Poor
+117,Clopidogrel,Clopidogrel,Poor
+118,Tramadol,Tramadol,Poor
+119,Amoxicillin,Amoxicillin,Poor
+120,Paracetamol,Paracetamol,Good
+121,Paracetamol,Paracetamol,Poor
+122,Azithromycin,Azithromycin,Good
+123,Prednisone,Prednisone,Good
+124,Clopidogrel,Clopidogrel,Poor
+125,Simvastatin,Simvastatin,Good
+126,Diphenhydramine,Diphenhydramine,Good
+127,Azithromycin,Azithromycin,Good
+128,Azithromycin,Azithromycin,Poor
+129,Doxycycline,Doxycycline,Good
+130,Losartan,Losartan Potassium,Good
+131,Doxycycline,Doxycycline,Good
+132,Diphenhydramine,Diphenhydramine,Good
+133,Aspirin,Acetylsalicylic Acid,Good
+134,Amoxicillin,Amoxicillin,Poor
+135,Omeprazole,Omeprazole,Poor
+136,Diphenhydramine,Diphenhydramine,Poor
+146,Amoxicillin,Amoxicillin,Poor
+147,Prednisone,Prednisone,Good
+148,Ranitidine,Ranitidine,Good
+149,Ibuprofen,Ibuprofen,Poor
+150,Hydrochlorothiazide,Hydrochlorothiazide,Good
+151,Cetirizine,Cetirizine Hydrochloride,Good
+152,Ibuprofen,Ibuprofen,Good
+153,Ibuprofen,Ibuprofen,Good
+154,Montelukast,Montelukast Sodium,Good
+155,Prednisone,Prednisone,Good
+156,Losartan,Losartan Potassium,Poor
+157,Amoxicillin,Amoxicillin,Good
+158,Hydrochlorothiazide,Hydrochlorothiazide,Good
+159,Clopidogrel,Clopidogrel,Good
+160,Ranitidine,Ranitidine,Poor
+161,Cetirizine,Cetirizine Hydrochloride,Poor
+162,Azithromycin,Azithromycin,Good
+163,Montelukast,Montelukast Sodium,Good
+164,Lorazepam,Lorazepam,Good
+165,Diphenhydramine,Diphenhydramine,Poor
+166,Losartan,Losartan Potassium,Poor
+167,Azithromycin,Azithromycin,Good
+168,Tramadol,Tramadol,Good
+169,Metformin,Metformin Hydrochloride,Poor
+170,Simvastatin,Simvastatin,Good
+171,Simvastatin,Simvastatin,Poor
+172,Doxycycline,Doxycycline,Poor
+173,Clopidogrel,Clopidogrel,Good
+174,Montelukast,Montelukast Sodium,Good
+175,Amoxicillin,Amoxicillin,Poor
+176,Paracetamol,Paracetamol,Good
+177,Simvastatin,Simvastatin,Good
+178,Clopidogrel,Clopidogrel,Good
+179,Montelukast,Montelukast Sodium,Good
+180,Diphenhydramine,Diphenhydramine,Poor
+181,Ibuprofen,Ibuprofen,Good
+182,Azithromycin,Azithromycin,Good
+183,Metformin,Metformin Hydrochloride,Good
+184,Metformin,Metformin Hydrochloride,Poor
+185,Azithromycin,Azithromycin,Poor
+186,Omeprazole,Omeprazole,Good
+187,Clopidogrel,Clopidogrel,Good
+188,Doxycycline,Doxycycline,Poor
+189,Paracetamol,Paracetamol,Good
+190,Azithromycin,Azithromycin,Good
+191,Simvastatin,Simvastatin,Good
+192,Amoxicillin,Amoxicillin,Good
+193,Clopidogrel,Clopidogrel,Poor
+194,Aspirin,Acetylsalicylic Acid,Good
+195,Ibuprofen,Ibuprofen,Good
+196,Paracetamol,Paracetamol,Poor
+197,Losartan,Losartan Potassium,Poor
+198,Clopidogrel,Clopidogrel,Poor
+199,Losartan,Losartan Potassium,Poor
+200,Simvastatin,Simvastatin,Good
+201,Ibuprofen,Ibuprofen,Good
+202,Ciprofloxacin,Ciprofloxacin,Poor
+203,Ciprofloxacin,Ciprofloxacin,Good
+204,Ciprofloxacin,Ciprofloxacin,Poor
+220,Doxycycline,Doxycycline,Poor
+221,Paracetamol,Paracetamol,Good
+222,Amoxicillin,Amoxicillin,Good
+223,Ranitidine,Ranitidine,Good
+224,Ibuprofen,Ibuprofen,Good
+225,Ciprofloxacin,Ciprofloxacin,Poor
+226,Montelukast,Montelukast Sodium,Good
+227,Prednisone,Prednisone,Poor
+228,Cetirizine,Cetirizine Hydrochloride,Good
+229,Ranitidine,Ranitidine,Poor
+230,Amoxicillin,Amoxicillin,Good
+231,Hydrochlorothiazide,Hydrochlorothiazide,Good
+232,Losartan,Losartan Potassium,Poor
+233,Ibuprofen,Ibuprofen,Poor
+234,Montelukast,Montelukast Sodium,Good
+235,Paracetamol,Paracetamol,Good
+236,Clopidogrel,Clopidogrel,Good
+237,Prednisone,Prednisone,Good
+238,Simvastatin,Simvastatin,Good
+239,Aspirin,Acetylsalicylic Acid,Good
+240,Tramadol,Tramadol,Good
+241,Simvastatin,Simvastatin,Good
+242,Prednisone,Prednisone,Poor
+243,Clopidogrel,Clopidogrel,Good
+244,Ciprofloxacin,Ciprofloxacin,Poor
+245,Azithromycin,Azithromycin,Good
+246,Omeprazole,Omeprazole,Good
+247,Clopidogrel,Clopidogrel,Poor
+248,Simvastatin,Simvastatin,Poor
+249,Azithromycin,Azithromycin,Good
+250,Montelukast,Montelukast Sodium,Poor
+251,Ranitidine,Ranitidine,Good
+252,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+253,Paracetamol,Paracetamol,Good
+254,Montelukast,Montelukast Sodium,Good
+255,Paracetamol,Paracetamol,Good
+256,Lorazepam,Lorazepam,Good
+257,Losartan,Losartan Potassium,Good
+258,Ranitidine,Ranitidine,Good
+259,Prednisone,Prednisone,Good
+260,Metformin,Metformin Hydrochloride,Good
+261,Ibuprofen,Ibuprofen,Poor
+262,Paracetamol,Paracetamol,Good
+263,Ciprofloxacin,Ciprofloxacin,Good
+264,Ibuprofen,Ibuprofen,Poor
+274,Aspirin,Acetylsalicylic Acid,Poor
+285,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+286,Ibuprofen,Ibuprofen,Good
+287,Clopidogrel,Clopidogrel,Poor
+288,Montelukast,Montelukast Sodium,Good
+289,Lorazepam,Lorazepam,Good
+290,Montelukast,Montelukast Sodium,Poor
+291,Lorazepam,Lorazepam,Poor
+298,Azithromycin,Azithromycin,Poor
+299,Aspirin,Acetylsalicylic Acid,Poor
+300,Metformin,Metformin Hydrochloride,Poor
+301,Omeprazole,Omeprazole,Good
+302,Omeprazole,Omeprazole,Poor
+310,Clopidogrel,Clopidogrel,Poor
+311,Paracetamol,Paracetamol,Good
+312,Diphenhydramine,Diphenhydramine,Good
+313,Aspirin,Acetylsalicylic Acid,Poor
+322,Amoxicillin,Amoxicillin,Poor
+323,Montelukast,Montelukast Sodium,Good
+324,Hydrochlorothiazide,Hydrochlorothiazide,Good
+325,Losartan,Losartan Potassium,Poor
+326,Cetirizine,Cetirizine Hydrochloride,Good
+327,Azithromycin,Azithromycin,Poor
+328,Azithromycin,Azithromycin,Good
+329,Diphenhydramine,Diphenhydramine,Poor
+330,Simvastatin,Simvastatin,Good
+331,Doxycycline,Doxycycline,Good
+332,Clopidogrel,Clopidogrel,Good
+333,Diphenhydramine,Diphenhydramine,Good
+334,Tramadol,Tramadol,Good
+335,Azithromycin,Azithromycin,Good
+336,Lorazepam,Lorazepam,Good
+337,Montelukast,Montelukast Sodium,Poor
+338,Diphenhydramine,Diphenhydramine,Good
+339,Ciprofloxacin,Ciprofloxacin,Good
+340,Ibuprofen,Ibuprofen,Good
+341,Aspirin,Acetylsalicylic Acid,Good
+342,Clopidogrel,Clopidogrel,Good
+343,Montelukast,Montelukast Sodium,Good
+344,Diphenhydramine,Diphenhydramine,Good
+345,Amoxicillin,Amoxicillin,Poor
+346,Paracetamol,Paracetamol,Good
+347,Simvastatin,Simvastatin,Poor
+348,Ranitidine,Ranitidine,Poor
+349,Hydrochlorothiazide,Hydrochlorothiazide,Good
+350,Ranitidine,Ranitidine,Poor
+351,Prednisone,Prednisone,Good
+352,Cetirizine,Cetirizine Hydrochloride,Poor
+353,Tramadol,Tramadol,Good
+354,Azithromycin,Azithromycin,Good
+355,Cetirizine,Cetirizine Hydrochloride,Good
+356,Lorazepam,Lorazepam,Good
+357,Losartan,Losartan Potassium,Poor
+358,Prednisone,Prednisone,Good
+359,Cetirizine,Cetirizine Hydrochloride,Good
+360,Losartan,Losartan Potassium,Good
+361,Prednisone,Prednisone,Good
+362,Losartan,Losartan Potassium,Good
+363,Simvastatin,Simvastatin,Poor
+364,Metformin,Metformin Hydrochloride,Poor
+365,Omeprazole,Omeprazole,Poor
+366,Ibuprofen,Ibuprofen,Poor
+367,Clopidogrel,Clopidogrel,Good
+368,Doxycycline,Doxycycline,Good
+369,Omeprazole,Omeprazole,Good
+370,Ciprofloxacin,Ciprofloxacin,Poor
+371,Diphenhydramine,Diphenhydramine,Poor
+372,Azithromycin,Azithromycin,Good
+373,Amoxicillin,Amoxicillin,Poor
+374,Tramadol,Tramadol,Poor
+375,Cetirizine,Cetirizine Hydrochloride,Good
+376,Aspirin,Acetylsalicylic Acid,Good
+377,Prednisone,Prednisone,Poor
+378,Ibuprofen,Ibuprofen,Good
+379,Amoxicillin,Amoxicillin,Good
+380,Azithromycin,Azithromycin,Poor
+381,Cetirizine,Cetirizine Hydrochloride,Good
+382,Paracetamol,Paracetamol,Poor
+383,Losartan,Losartan Potassium,Poor
+384,Losartan,Losartan Potassium,Good
+385,Prednisone,Prednisone,Good
+386,Ibuprofen,Ibuprofen,Good
+387,Azithromycin,Azithromycin,Good
+388,Tramadol,Tramadol,Good
+389,Omeprazole,Omeprazole,Poor
+390,Amoxicillin,Amoxicillin,Good
+391,Omeprazole,Omeprazole,Poor
+392,Losartan,Losartan Potassium,Good
+393,Cetirizine,Cetirizine Hydrochloride,Good
+394,Paracetamol,Paracetamol,Good
+395,Simvastatin,Simvastatin,Poor
+396,Cetirizine,Cetirizine Hydrochloride,Good
+397,Tramadol,Tramadol,Good
+398,Cetirizine,Cetirizine Hydrochloride,Poor
+399,Paracetamol,Paracetamol,Good
+400,Tramadol,Tramadol,Good
+401,Tramadol,Tramadol,Poor
+402,Montelukast,Montelukast Sodium,Good
+403,Losartan,Losartan Potassium,Poor
+404,Montelukast,Montelukast Sodium,Good
+405,Metformin,Metformin Hydrochloride,Poor
+406,Cetirizine,Cetirizine Hydrochloride,Poor
+407,Doxycycline,Doxycycline,Poor
+408,Prednisone,Prednisone,Poor
+409,Cetirizine,Cetirizine Hydrochloride,Good
+410,Omeprazole,Omeprazole,Poor
+411,Paracetamol,Paracetamol,Poor
+412,Paracetamol,Paracetamol,Good
+413,Losartan,Losartan Potassium,Good
+414,Losartan,Losartan Potassium,Good
+415,Lorazepam,Lorazepam,Good
+416,Montelukast,Montelukast Sodium,Poor
+417,Ciprofloxacin,Ciprofloxacin,Good
+418,Tramadol,Tramadol,Good
+419,Lorazepam,Lorazepam,Poor
+420,Amoxicillin,Amoxicillin,Good
+421,Simvastatin,Simvastatin,Good
+422,Ranitidine,Ranitidine,Poor
+423,Simvastatin,Simvastatin,Good
+424,Amoxicillin,Amoxicillin,Good
+425,Omeprazole,Omeprazole,Poor
+426,Metformin,Metformin Hydrochloride,Good
+427,Metformin,Metformin Hydrochloride,Poor
+428,Metformin,Metformin Hydrochloride,Good
+429,Doxycycline,Doxycycline,Good
+430,Omeprazole,Omeprazole,Good
+431,Montelukast,Montelukast Sodium,Good
+432,Diphenhydramine,Diphenhydramine,Good
+433,Clopidogrel,Clopidogrel,Good
+434,Clopidogrel,Clopidogrel,Good
+435,Ciprofloxacin,Ciprofloxacin,Good
+436,Ibuprofen,Ibuprofen,Good
+437,Simvastatin,Simvastatin,Good
+438,Omeprazole,Omeprazole,Good
+439,Montelukast,Montelukast Sodium,Good
+440,Losartan,Losartan Potassium,Poor
+441,Cetirizine,Cetirizine Hydrochloride,Good
+442,Clopidogrel,Clopidogrel,Good
+443,Prednisone,Prednisone,Good
+444,Hydrochlorothiazide,Hydrochlorothiazide,Good
+445,Tramadol,Tramadol,Poor
+446,Cetirizine,Cetirizine Hydrochloride,Good
+447,Omeprazole,Omeprazole,Good
+448,Aspirin,Acetylsalicylic Acid,Good
+449,Azithromycin,Azithromycin,Poor
+450,Losartan,Losartan Potassium,Poor
+451,Cetirizine,Cetirizine Hydrochloride,Good
+452,Ciprofloxacin,Ciprofloxacin,Good
+453,Tramadol,Tramadol,Good
+454,Losartan,Losartan Potassium,Good
+455,Simvastatin,Simvastatin,Poor
+456,Amoxicillin,Amoxicillin,Good
+457,Ciprofloxacin,Ciprofloxacin,Good
+458,Omeprazole,Omeprazole,Poor
+459,Tramadol,Tramadol,Good
+460,Clopidogrel,Clopidogrel,Poor
+475,Ranitidine,Ranitidine,Poor
+476,Lorazepam,Lorazepam,Good
+477,Simvastatin,Simvastatin,Good
+478,Paracetamol,Paracetamol,Good
+479,Doxycycline,Doxycycline,Poor
+501,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+502,Cetirizine,Cetirizine Hydrochloride,Poor
+503,Doxycycline,Doxycycline,Poor
+504,Amoxicillin,Amoxicillin,Good
+505,Paracetamol,Paracetamol,Good
+506,Ciprofloxacin,Ciprofloxacin,Good
+507,Hydrochlorothiazide,Hydrochlorothiazide,Good
+508,Losartan,Losartan Potassium,Good
+509,Ciprofloxacin,Ciprofloxacin,Poor
+510,Metformin,Metformin Hydrochloride,Good
+511,Ranitidine,Ranitidine,Poor
+512,Clopidogrel,Clopidogrel,Good
+513,Hydrochlorothiazide,Hydrochlorothiazide,Good
+514,Tramadol,Tramadol,Poor
+515,Doxycycline,Doxycycline,Poor
+516,Ibuprofen,Ibuprofen,Good
+517,Hydrochlorothiazide,Hydrochlorothiazide,Good
+518,Aspirin,Acetylsalicylic Acid,Poor
+519,Lorazepam,Lorazepam,Poor
+520,Omeprazole,Omeprazole,Good
+521,Lorazepam,Lorazepam,Good
+522,Diphenhydramine,Diphenhydramine,Good
+523,Montelukast,Montelukast Sodium,Good
+524,Ibuprofen,Ibuprofen,Poor
+525,Montelukast,Montelukast Sodium,Good
+526,Omeprazole,Omeprazole,Good
+527,Cetirizine,Cetirizine Hydrochloride,Poor
+528,Aspirin,Acetylsalicylic Acid,Good
+529,Ciprofloxacin,Ciprofloxacin,Good
+530,Tramadol,Tramadol,Poor
+531,Ciprofloxacin,Ciprofloxacin,Good
+532,Tramadol,Tramadol,Good
+533,Montelukast,Montelukast Sodium,Good
+534,Hydrochlorothiazide,Hydrochlorothiazide,Good
+535,Ciprofloxacin,Ciprofloxacin,Poor
+536,Ibuprofen,Ibuprofen,Poor
+537,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+538,Simvastatin,Simvastatin,Poor
+539,Amoxicillin,Amoxicillin,Good
+540,Doxycycline,Doxycycline,Good
+541,Montelukast,Montelukast Sodium,Good
+542,Omeprazole,Omeprazole,Good
+543,Amoxicillin,Amoxicillin,Poor
+544,Tramadol,Tramadol,Good
+545,Simvastatin,Simvastatin,Good
+546,Metformin,Metformin Hydrochloride,Good
+547,Diphenhydramine,Diphenhydramine,Good
+548,Tramadol,Tramadol,Poor
+549,Ranitidine,Ranitidine,Good
+550,Cetirizine,Cetirizine Hydrochloride,Good
+551,Ranitidine,Ranitidine,Good
+552,Diphenhydramine,Diphenhydramine,Poor
+553,Prednisone,Prednisone,Good
+554,Doxycycline,Doxycycline,Good
+555,Losartan,Losartan Potassium,Good
+556,Metformin,Metformin Hydrochloride,Good
+557,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+558,Clopidogrel,Clopidogrel,Good
+559,Aspirin,Acetylsalicylic Acid,Good
+560,Montelukast,Montelukast Sodium,Good
+561,Lorazepam,Lorazepam,Poor
+562,Paracetamol,Paracetamol,Poor
+563,Doxycycline,Doxycycline,Good
+564,Ranitidine,Ranitidine,Good
+565,Prednisone,Prednisone,Poor
+566,Losartan,Losartan Potassium,Poor
+567,Doxycycline,Doxycycline,Good
+568,Prednisone,Prednisone,Poor
+569,Amoxicillin,Amoxicillin,Good
+570,Aspirin,Acetylsalicylic Acid,Good
+571,Aspirin,Acetylsalicylic Acid,Poor
+572,Losartan,Losartan Potassium,Poor
+573,Ciprofloxacin,Ciprofloxacin,Poor
+574,Amoxicillin,Amoxicillin,Good
+575,Doxycycline,Doxycycline,Good
+576,Paracetamol,Paracetamol,Good
+577,Ibuprofen,Ibuprofen,Good
+578,Paracetamol,Paracetamol,Good
+579,Montelukast,Montelukast Sodium,Poor
+580,Ranitidine,Ranitidine,Poor
+591,Diphenhydramine,Diphenhydramine,Poor
+592,Doxycycline,Doxycycline,Good
+593,Cetirizine,Cetirizine Hydrochloride,Good
+594,Clopidogrel,Clopidogrel,Good
+595,Lorazepam,Lorazepam,Good
+596,Simvastatin,Simvastatin,Good
+597,Omeprazole,Omeprazole,Poor
+598,Clopidogrel,Clopidogrel,Poor
+608,Aspirin,Acetylsalicylic Acid,Poor
+609,Losartan,Losartan Potassium,Good
+610,Tramadol,Tramadol,Good
+611,Metformin,Metformin Hydrochloride,Poor
+612,Ciprofloxacin,Ciprofloxacin,Good
+613,Diphenhydramine,Diphenhydramine,Poor
+614,Montelukast,Montelukast Sodium,Good
+615,Amoxicillin,Amoxicillin,Good
+616,Azithromycin,Azithromycin,Good
+617,Cetirizine,Cetirizine Hydrochloride,Good
+618,Metformin,Metformin Hydrochloride,Good
+619,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+620,Cetirizine,Cetirizine Hydrochloride,Poor
+621,Amoxicillin,Amoxicillin,Good
+622,Losartan,Losartan Potassium,Good
+623,Simvastatin,Simvastatin,Good
+624,Simvastatin,Simvastatin,Poor
+625,Amoxicillin,Amoxicillin,Poor
+626,Simvastatin,Simvastatin,Good
+627,Ibuprofen,Ibuprofen,Good
+628,Losartan,Losartan Potassium,Good
+629,Tramadol,Tramadol,Good
+630,Aspirin,Acetylsalicylic Acid,Good
+631,Ibuprofen,Ibuprofen,Poor
+632,Aspirin,Acetylsalicylic Acid,Good
+633,Tramadol,Tramadol,Good
+634,Paracetamol,Paracetamol,Good
+635,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+636,Azithromycin,Azithromycin,Good
+637,Azithromycin,Azithromycin,Poor
+638,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+639,Amoxicillin,Amoxicillin,Good
+640,Ciprofloxacin,Ciprofloxacin,Good
+641,Diphenhydramine,Diphenhydramine,Good
+642,Azithromycin,Azithromycin,Good
+643,Azithromycin,Azithromycin,Good
+644,Aspirin,Acetylsalicylic Acid,Poor
+645,Doxycycline,Doxycycline,Poor
+646,Cetirizine,Cetirizine Hydrochloride,Good
+647,Omeprazole,Omeprazole,Good
+648,Aspirin,Acetylsalicylic Acid,Poor
+649,Lorazepam,Lorazepam,Poor
+650,Lorazepam,Lorazepam,Good
+651,Cetirizine,Cetirizine Hydrochloride,Good
+652,Clopidogrel,Clopidogrel,Good
+653,Amoxicillin,Amoxicillin,Good
+654,Losartan,Losartan Potassium,Poor
+655,Ranitidine,Ranitidine,Good
+656,Lorazepam,Lorazepam,Poor
+668,Ranitidine,Ranitidine,Poor
+669,Montelukast,Montelukast Sodium,Poor
+680,Cetirizine,Cetirizine Hydrochloride,Poor
+681,Prednisone,Prednisone,Poor
+682,Aspirin,Acetylsalicylic Acid,Poor
+683,Aspirin,Acetylsalicylic Acid,Poor
+684,Diphenhydramine,Diphenhydramine,Poor
+685,Amoxicillin,Amoxicillin,Good
+686,Amoxicillin,Amoxicillin,Poor
+687,Diphenhydramine,Diphenhydramine,Good
+688,Ciprofloxacin,Ciprofloxacin,Poor
+689,Omeprazole,Omeprazole,Good
+690,Tramadol,Tramadol,Poor
+691,Ciprofloxacin,Ciprofloxacin,Poor
+692,Aspirin,Acetylsalicylic Acid,Poor
+693,Doxycycline,Doxycycline,Poor
+694,Tramadol,Tramadol,Good
+695,Clopidogrel,Clopidogrel,Good
+696,Diphenhydramine,Diphenhydramine,Poor
+697,Hydrochlorothiazide,Hydrochlorothiazide,Good
+698,Ciprofloxacin,Ciprofloxacin,Good
+699,Clopidogrel,Clopidogrel,Good
+700,Amoxicillin,Amoxicillin,Poor
+708,Omeprazole,Omeprazole,Poor
+709,Simvastatin,Simvastatin,Good
+710,Clopidogrel,Clopidogrel,Good
+711,Ibuprofen,Ibuprofen,Good
+712,Tramadol,Tramadol,Good
+713,Clopidogrel,Clopidogrel,Poor
+714,Tramadol,Tramadol,Good
+715,Losartan,Losartan Potassium,Good
+716,Clopidogrel,Clopidogrel,Poor
+724,Metformin,Metformin Hydrochloride,Poor
+725,Losartan,Losartan Potassium,Good
+726,Tramadol,Tramadol,Poor
+727,Azithromycin,Azithromycin,Good
+728,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+729,Ranitidine,Ranitidine,Good
+730,Prednisone,Prednisone,Good
+731,Ranitidine,Ranitidine,Poor
+732,Aspirin,Acetylsalicylic Acid,Poor
+733,Clopidogrel,Clopidogrel,Poor
+740,Ibuprofen,Ibuprofen,Poor
+
+748,Doxycycline,Doxycycline,Poor
+749,Cetirizine,Cetirizine Hydrochloride,Good
+750,Ranitidine,Ranitidine,Poor
+756,Azithromycin,Azithromycin,Poor
+757,Losartan,Losartan Potassium,Good
+758,Metformin,Metformin Hydrochloride,Poor
+759,Ciprofloxacin,Ciprofloxacin,Good
+760,Prednisone,Prednisone,Poor
+761,Losartan,Losartan Potassium,Poor
+
+766,Omeprazole,Omeprazole,Poor
+767,Ciprofloxacin,Ciprofloxacin,Poor
+768,Azithromycin,Azithromycin,Good
+769,Paracetamol,Paracetamol,Good
+770,Montelukast,Montelukast Sodium,Poor
+771,Losartan,Losartan Potassium,Poor
+772,Ibuprofen,Ibuprofen,Good
+773,Doxycycline,Doxycycline,Good
+774,Ibuprofen,Ibuprofen,Poor
+781,Azithromycin,Azithromycin,Poor
+782,Ranitidine,Ranitidine,Good
+783,Doxycycline,Doxycycline,Poor
+784,Losartan,Losartan Potassium,Good
+785,Montelukast,Montelukast Sodium,Poor
+786,Omeprazole,Omeprazole,Good
+787,Paracetamol,Paracetamol,Good
+788,Aspirin,Acetylsalicylic Acid,Poor
+789,Aspirin,Acetylsalicylic Acid,Good
+790,Metformin,Metformin Hydrochloride,Good
+791,Simvastatin,Simvastatin,Poor
+792,Montelukast,Montelukast Sodium,Good
+793,Diphenhydramine,Diphenhydramine,Poor
+794,Clopidogrel,Clopidogrel,Poor
+795,Diphenhydramine,Diphenhydramine,Good
+796,Prednisone,Prednisone,Good
+797,Diphenhydramine,Diphenhydramine,Good
+798,Metformin,Metformin Hydrochloride,Good
+799,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+800,Aspirin,Acetylsalicylic Acid,Good
+801,Clopidogrel,Clopidogrel,Poor
+802,Montelukast,Montelukast Sodium,Poor
+803,Diphenhydramine,Diphenhydramine,Poor
+810,Tramadol,Tramadol,Poor
+811,Ranitidine,Ranitidine,Good
+812,Prednisone,Prednisone,Poor
+813,Paracetamol,Paracetamol,Good
+814,Montelukast,Montelukast Sodium,Good
+815,Azithromycin,Azithromycin,Good
+816,Ciprofloxacin,Ciprofloxacin,Poor
+817,Metformin,Metformin Hydrochloride,Poor
+825,Montelukast,Montelukast Sodium,Poor
+830,Lorazepam,Lorazepam,Poor
+831,Doxycycline,Doxycycline,Good
+832,Montelukast,Montelukast Sodium,Poor
+841,Lorazepam,Lorazepam,Poor
+842,Ciprofloxacin,Ciprofloxacin,Good
+843,Losartan,Losartan Potassium,Poor
+844,Aspirin,Acetylsalicylic Acid,Poor
+845,Ranitidine,Ranitidine,Poor
+846,Azithromycin,Azithromycin,Good
+847,Omeprazole,Omeprazole,Good
+848,Amoxicillin,Amoxicillin,Poor
+849,Aspirin,Acetylsalicylic Acid,Poor
+850,Azithromycin,Azithromycin,Poor
+862,Montelukast,Montelukast Sodium,Poor
+863,Prednisone,Prednisone,Good
+864,Ranitidine,Ranitidine,Good
+865,Amoxicillin,Amoxicillin,Poor
+866,Tramadol,Tramadol,Good
+867,Ranitidine,Ranitidine,Poor
+877,Prednisone,Prednisone,Poor
+878,Clopidogrel,Clopidogrel,Poor
+879,Ranitidine,Ranitidine,Poor
+880,Amoxicillin,Amoxicillin,Good
+881,Lorazepam,Lorazepam,Poor
+887,Doxycycline,Doxycycline,Poor
+893,Cetirizine,Cetirizine Hydrochloride,Poor
+894,Ranitidine,Ranitidine,Poor
+895,Aspirin,Acetylsalicylic Acid,Good
+896,Doxycycline,Doxycycline,Good
+897,Losartan,Losartan Potassium,Good
+898,Doxycycline,Doxycycline,Good
+899,Ranitidine,Ranitidine,Good
+900,Lorazepam,Lorazepam,Poor
+901,Simvastatin,Simvastatin,Good
+902,Losartan,Losartan Potassium,Good
+903,Losartan,Losartan Potassium,Good
+904,Prednisone,Prednisone,Good
+905,Amoxicillin,Amoxicillin,Poor
+906,Clopidogrel,Clopidogrel,Poor
+907,Amoxicillin,Amoxicillin,Good
+908,Ranitidine,Ranitidine,Poor
+909,Lorazepam,Lorazepam,Good
+910,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+911,Tramadol,Tramadol,Poor
+912,Azithromycin,Azithromycin,Poor
+913,Aspirin,Acetylsalicylic Acid,Good
+914,Lorazepam,Lorazepam,Good
+915,Diphenhydramine,Diphenhydramine,Poor
+
+922,Amoxicillin,Amoxicillin,Poor
+
+932,Ciprofloxacin,Ciprofloxacin,Poor
+933,Ranitidine,Ranitidine,Good
+934,Azithromycin,Azithromycin,Good
+935,Metformin,Metformin Hydrochloride,Poor
+936,Ranitidine,Ranitidine,Good
+937,Azithromycin,Azithromycin,Good
+938,Hydrochlorothiazide,Hydrochlorothiazide,Poor
+939,Amoxicillin,Amoxicillin,Good
+940,Ranitidine,Ranitidine,Good
+941,Montelukast,Montelukast Sodium,Good
+942,Paracetamol,Paracetamol,Good
+943,Prednisone,Prednisone,Poor
+944,Montelukast,Montelukast Sodium,Good
+945,Metformin,Metformin Hydrochloride,Poor
+946,Losartan,Losartan Potassium,Good
+947,Hydrochlorothiazide,Hydrochlorothiazide,Good
+948,Doxycycline,Doxycycline,Good
+949,Montelukast,Montelukast Sodium,Good
+950,Ranitidine,Ranitidine,Good
+951,Doxycycline,Doxycycline,Poor
+952,Paracetamol,Paracetamol,Good
+953,Ciprofloxacin,Ciprofloxacin,Good
+954,Ranitidine,Ranitidine,Good
+955,Montelukast,Montelukast Sodium,Poor
+956,Diphenhydramine,Diphenhydramine,Good
+957,Doxycycline,Doxycycline,Good
+958,Lorazepam,Lorazepam,Poor
+959,Omeprazole,Omeprazole,Poor
+960,Diphenhydramine,Diphenhydramine,Good
+961,Lorazepam,Lorazepam,Poor
+962,Ranitidine,Ranitidine,Good
+963,Simvastatin,Simvastatin,Good
+964,Tramadol,Tramadol,Poor
+965,Omeprazole,Omeprazole,Poor
+966,Aspirin,Acetylsalicylic Acid,Poor
+967,Simvastatin,Simvastatin,Good
+968,Doxycycline,Doxycycline,Good
+969,Ciprofloxacin,Ciprofloxacin,Poor
+970,Omeprazole,Omeprazole,Good
+971,Tramadol,Tramadol,Good
+972,Tramadol,Tramadol,Good
+973,Losartan,Losartan Potassium,Poor
+974,Montelukast,Montelukast Sodium,Good
+975,Tramadol,Tramadol,Good
+976,Aspirin,Acetylsalicylic Acid,Poor
+988,Diphenhydramine,Diphenhydramine,Poor
+989,Ciprofloxacin,Ciprofloxacin,Good
+995,Montelukast,Montelukast Sodium,Poor
+996,Simvastatin,Simvastatin,Poor
+997,Ranitidine,Ranitidine,Good
+998,Aspirin,Acetylsalicylic Acid,Good
+999,Metformin,Metformin Hydrochloride,Good
+1000,Simvastatin,Simvastatin,Poor
